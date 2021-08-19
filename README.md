@@ -2,6 +2,12 @@
 
 Author: [Tariq Ali](https://tra38.github.io/)
 
+The book was originally published on [GitBook](https://tra38.gitbooks.io/essential-copying-and-pasting-from-stack-overflow/).
+
+![Creative Commons Attribution icon](cc-by-icon.png)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
 ## Introduction
 
 Inspired by this cover. The book is written in a deadpan manner.
