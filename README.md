@@ -8,6 +8,8 @@ Książka została pierwotnie opublikowana na [GitBook](https://tra38.gitbooks.i
 
 Ta książka jest na licencji [Creative Commons Uznanie autorstwa 4.0 Międzynarodowe](https://creativecommons.org/licenses/by/4.0/).
 
+Tłumaczenie zostało sfinansowane przez [Wydział Matematyki i Informatyki Uniwersytetu im. Adama Mickiewicza w Poznaniu](https://wmi.amu.edu.pl/).
+
 ## Wstęp
 
 Zainspirowana tą okładką. Ta książka została napisana śmiertelnie poważnie.
@@ -20,7 +22,7 @@ Zainspirowana tą okładką. Ta książka została napisana śmiertelnie poważn
 
 Zanim skopiujesz i wkleisz kod, upewnij się, że *masz prawo* skopiować i wkleić ten kod. Jeśli nie masz takiego prawa, dopuścisz się kradzieży czyjejś własności intelektualnej. A to byłoby *lenistwo*.
 
-Większość kodu na Stack Overflow to "wycinki". Nie spełniają standardów oryginalności i przez to nie są chronione prawem autorskim. Możesz je kopiować i wklejać, nie przejmując się, że przegrasz sprawę w sądzie.
+Większość kodu na Stack Overflow to "wycinki" (ang. *snippets*). Nie spełniają standardów oryginalności i przez to nie są chronione prawem autorskim. Możesz je kopiować i wklejać, nie przejmując się, że przegrasz sprawę w sądzie.
 
 Część kodu na Stack Overflow to o wiele dłuższe fragmenty niż "wycinki". I dlatego kwalifikują się do ochrony prawem autorskim. Domyślnie wszystkie treści na Stack Overflow (włącznie z kodem) są na licencji CC-BY-SA 3.0.
 
