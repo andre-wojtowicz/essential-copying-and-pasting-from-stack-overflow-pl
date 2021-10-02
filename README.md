@@ -85,7 +85,7 @@ Właśnie dlatego bezrefleksyjne kopiuj-wklej z pierwszej odpowiedzi to beznadzi
 
 Zamiast tego przeskroluj stronę i przeczytaj wszystkie odpowiedzi, a nawet wszystkie komentarze do nich. Mogą dać ci więcej informacji albo coś wyjaśnić, dzięki czemu decyzję o tym, co skopiować, podejmiesz bardziej świadomie. Może zerknij też na boczny pasek strony i przejrzyj inne powiązane pytania.
 
-Pomocne jest też sprawdzenie daty pytania i odpowiedzi. Stack Overflow to strona o długiej historii i świadomość, kiedy coś zostało opublikowane, naprawdę pomaga ocenić, czy jest to aktualna treść, czy raczej coś, co już dawno się zdezaktualizowało. To nie znaczy, że musisz z miejsca odrzucać odpowiedzi sprzed roku czy dwóch lat. Po prostu twój profesjonalny osąd zyskuje dodatkowy aspekt do uwzględnienia, zanim zrobisz Ctrl -+ C.
+Pomocne jest też sprawdzenie daty pytania i odpowiedzi. Stack Overflow to strona o długiej historii i świadomość, kiedy coś zostało opublikowane, naprawdę pomaga ocenić, czy jest to aktualna treść, czy raczej coś, co już dawno się zdezaktualizowało. To nie znaczy, że musisz z miejsca odrzucać odpowiedzi sprzed roku czy dwóch lat. Po prostu twój profesjonalny osąd zyskuje dodatkowy aspekt do uwzględnienia, zanim zrobisz Ctrl + C.
 
 Jeśli nie zadowalają cię odpowiedzi na jakieś pytanie, nie przejmuj się. Szukaj dalej. Stack Overflow krzywo patrzy na ludzi zadających ciągle te same pytania. A mimo to wciąż się tak dzieje. Zazwyczaj takie pytania są zamykane jako "duplikaty", ale nikt ich nie usuwa i masz do nich normalny dostęp. Poszukaj takich "zduplikowanych" pytań, a może znajdziesz o wiele lepsze odpowiedzi niż w tak zwanej wersji "kanonicznej".
 
